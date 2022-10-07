@@ -1,2 +1,0 @@
-# GameJam
-Jam spel
